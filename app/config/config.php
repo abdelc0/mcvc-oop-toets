@@ -9,5 +9,3 @@ define('APPROOT', dirname(dirname(__FILE__)));
 define('URLROOT', 'http://mvc-oop-toets.com');
 
 define('SITENAME', 'MVC Framework reference');
-
-
